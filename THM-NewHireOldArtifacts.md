@@ -67,7 +67,7 @@ Confirmed that the ip address is malicious on [VirusTotal]
 
 
 
-**<span style="color: #2dc26b;">Answer: 2\[.\]56\[.\]59\[.\]42</span>**
+<span style="color: #2dc26b;">**Answer: 2\[.\]56\[.\]59\[.\]42**</span>
 
 # The same binary made some change to a registry key. What was the key path?
 
@@ -83,7 +83,7 @@ Filter:
 
 Some registries were set in "HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows Defender" in order to evade antivirus
 
-<span style="color: #2dc26b;">Answer: HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows Defender</span>
+<span style="color: #2dc26b;">**Answer: HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows Defender**</span>
 
 &nbsp;
 
