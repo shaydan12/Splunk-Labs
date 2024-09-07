@@ -1,2 +1,1 @@
-# TryHackMe-SOC-Level-1-Writeups
-Writeups for TryHackMe's Security Analyst Training Course
+Writeups for Splunk projects from platforms including TryHackMe 
