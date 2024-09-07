@@ -1,3 +1,10 @@
+# New Hire Old Artifacts
+Investigate the intrusion attack using Splunk.
+
+Link to room: https://tryhackme.com/r/room/newhireoldartifacts
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 
 # A Web Browser Password Viewer executed on the infected machine. What is the name of the binary? Enter the full path.
