@@ -7,7 +7,7 @@
 
 &nbsp;
 
-Accept license agreement -> Next
+Run the installer, accept the license agreement then choose "Next"
 
 &nbsp;
 
